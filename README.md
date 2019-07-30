@@ -1,5 +1,5 @@
 # software
 
-## Source Extractor
-
-## Noise Chisel
+* Source Extractor
+*
+* Noise Chisel
