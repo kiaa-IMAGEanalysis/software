@@ -4,9 +4,7 @@
 
 * Noise Chisel
 
-GNU
-
-[dowload](https://www.gnu.org/software/gnuastro/):
+** GNU [dowload](https://www.gnu.org/software/gnuastro/):
 
 Three mandatory dependencies: [GNU Scientific Library](http://ftp.rediris.es/mirror/GNU/gsl/), [CFITSIO](https://www.gnu.org/software/gnuastro/manual/html_node/CFITSIO.html), [WCSLIB](https://www.gnu.org/software/gnuastro/manual/html_node/WCSLIB.html).
 
