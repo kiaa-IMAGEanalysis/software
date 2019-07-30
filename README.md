@@ -1,4 +1,4 @@
-# software might be useful:
+# software :
 
 ### Source Extractor
 
@@ -13,3 +13,7 @@
 ### IRAF/PyRAF
 
 ### GALFIT
+
+# Useful link：
+
+### https://mwcraig.github.io/ccd-as-book/00-00-Preface.html
