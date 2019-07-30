@@ -1,8 +1,8 @@
 # software:
 
-##### Source Extractor
+### Source Extractor
 
-## Noise Chisel
+#### Noise Chisel
 
 * GNU [dowload](https://www.gnu.org/software/gnuastro/):
 
