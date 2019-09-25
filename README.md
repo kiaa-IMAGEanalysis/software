@@ -1,8 +1,8 @@
 # software :
 
-### Source Extractor
+### 1. Source Extractor
 
-### Noise Chisel
+### 2. Noise Chisel
 
 * GNU [dowload](https://www.gnu.org/software/gnuastro/):
 
@@ -10,9 +10,9 @@
 
 * [Installation](https://gitlab.com/makhlaghi/reproducible-paper/blob/master/README-hacking.md)
 
-### IRAF/PyRAF
+### 3. IRAF/PyRAF
 
-### MTObjects
+### 4. MTObjects
 
 * MTObjects is a tool for detecting sources in astronomical images, and creating segmentation maps and parameter tables.
    
