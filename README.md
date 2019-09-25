@@ -14,11 +14,11 @@
 
 ### MTObjects
 
-   MTObjects is a tool for detecting sources in astronomical images, and creating segmentation maps and parameter tables.
+* MTObjects is a tool for detecting sources in astronomical images, and creating segmentation maps and parameter tables.
    
-   The github repository where the code can be found is [here](https://github.com/CarolineHaigh/mtobjects)
+  The github repository where the code can be found is [here](https://github.com/CarolineHaigh/mtobjects)
    
-   Ref: [Paul Teeninga +](https://www.degruyter.com/downloadpdf/j/mathm.2016.1.issue-1/mathm-2016-0006/mathm-2016-0006.pdf)
+* Ref: [Paul Teeninga +](https://www.degruyter.com/downloadpdf/j/mathm.2016.1.issue-1/mathm-2016-0006/mathm-2016-0006.pdf)
 ***
 
 # Useful link：
